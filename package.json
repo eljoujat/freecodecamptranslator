@@ -1,0 +1,27 @@
+{
+  "name": "freecodecamptranslator",
+  "version": "1.0.0",
+  "description": "A Simple application to help translate freecodecamp challenges",
+  "main": "app.j",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/translate": "1.0.0",
+    "yargs": "8.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljoujat/freecodecamptranslator.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "translate"
+  ],
+  "author": "Youssef El Jaoujat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eljoujat/freecodecamptranslator/issues"
+  },
+  "homepage": "https://github.com/eljoujat/freecodecamptranslator#readme"
+}
